@@ -1,0 +1,157 @@
+@import url(http://fonts.googleapis.com/earlyaccess/nanummyeongjo.css);
+
+/* 훠훠*/
+
+::selection {
+    background: red;
+}
+
+h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    margin: 0;
+    border-bottom: white solid 2px;
+    padding: 30px;
+}
+
+body {
+    font-family: 'Nanum Myeongjo';
+    margin: 0 auto;
+    background-color: black;
+    width: 981px;
+}
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: white;
+}
+
+a:hover {
+    color: red;
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    color: white;
+    margin-right: 50px;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 150px 1fr;
+}
+
+.audiotab {
+    color: white;
+    padding: 3px;
+    padding-left: 550px;
+    border-bottom: white solid 2px;
+}
+
+.nowactive {
+    color: white;
+    padding: 3px;
+    padding-left: 35px;
+    border-bottom: white solid 2px;
+}
+
+.random하즈복음 {
+    color: black;
+    padding-left: 100px;
+}
+
+.연대기내용 {
+    line-height: 3;
+}
+
+.종류에대한붙임글 {
+    line-height: 3;
+}
+
+.ggwp {
+    font-size: xx-large;
+}
+
+#list {
+    color: white;
+    width: 200px;
+    height: auto;
+    border-right: white solid 2px;
+    padding-top: 30px;
+}
+
+#about {
+    padding-left: 100px;
+    padding-top: 50px;
+}
+
+h1 a:not(.grid) {
+    color: white;
+}
+
+.mailAD {
+    font-size: 13px;
+    color: rgba(255, 255, 255, 0.639);
+    line-height: 30px;
+}
+
+.footer_inner {
+    margin-top: 100px;
+    border-top: 1px solid white;
+    text-align: center;
+    padding: 60px;
+}
+
+.성경사진과본문 {
+    color: white;
+    width: 500px;
+    padding-top: 30px;
+    padding-left: 100px;
+}
+
+.추종자목록 {
+    width: 700px;
+    color: white;
+    padding-top: 20px;
+    line-height: 30px;
+}
+
+strong {
+    font-size: 30px;
+}
+
+.댕 {
+    border: white solid 1px;
+    margin-bottom: 30px;
+    padding-left: 10px;
+}
+
+.게 {
+    border: white solid 1px;
+    margin-bottom: 30px;
+    padding-left: 10px;
+}
+
+.자 {
+    border: white solid 1px;
+    margin-bottom: 30px;
+    padding-left: 10px;
+}
+
+.만 {
+    border: white solid 1px;
+    margin-bottom: 30px;
+    padding-left: 10px;
+}
+
+.공지 {
+    color: grey;
+}
