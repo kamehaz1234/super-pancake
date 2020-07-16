@@ -111,15 +111,16 @@ h1 a:not(.grid) {
 }
 
 .성경사진과본문 {
+    color: white;
     width: 500px;
     padding-top: 30px;
+    padding-left: 100px;
 }
 
-.성경본문 {
+.추종자목록 {
     width: 700px;
     color: white;
-    padding-left: 80px;
-    padding-top: 30px;
+    padding-top: 20px;
     line-height: 30px;
 }
 
@@ -127,36 +128,30 @@ strong {
     font-size: 30px;
 }
 
-.tg {
-    border-collapse: collapse;
-    border-spacing: 0;
+.댕 {
+    border: white solid 1px;
+    margin-bottom: 30px;
+    padding-left: 10px;
 }
 
-.tg td {
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    font-family: Arial, sans-serif;
-    font-size: 14px;
-    overflow: hidden;
-    padding: 10px 5px;
-    word-break: normal;
+.게 {
+    border: white solid 1px;
+    margin-bottom: 30px;
+    padding-left: 10px;
 }
 
-.tg th {
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    font-family: Arial, sans-serif;
-    font-size: 14px;
-    font-weight: normal;
-    overflow: hidden;
-    padding: 10px 5px;
-    word-break: normal;
+.자 {
+    border: white solid 1px;
+    margin-bottom: 30px;
+    padding-left: 10px;
 }
 
-.tg .tg-0pky {
-    border-color: inherit;
-    text-align: left;
-    vertical-align: top
+.만 {
+    border: white solid 1px;
+    margin-bottom: 30px;
+    padding-left: 10px;
+}
+
+.공지 {
+    color: grey;
 }
